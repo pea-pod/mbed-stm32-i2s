@@ -1,0 +1,8 @@
+{
+    "name": "stm-i2s",
+    "target_overrides": {
+        "STM32F4": {
+	   "target.device_has_add": ["I2S"]
+	}
+    }
+}
