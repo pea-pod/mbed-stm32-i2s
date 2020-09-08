@@ -12,7 +12,7 @@
 #include "platform/CThunk.h"
 #include "hal/stm_dma_api.h"
 #include "platform/CircularBuffer.h"
-#include "platform/FunctionPointer.h"
+#include "platform/Callback.h"
 #include "platform/Transaction.h"
 
 #include "events/EventQueue.h"
